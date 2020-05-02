@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Log commands as they run and fail noisily
-set -ex
+# Log commands as they run
+set -x
 
 # Set environment variables
 export RUN=
